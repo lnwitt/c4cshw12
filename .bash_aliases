@@ -1,0 +1,1 @@
+/home/lnwitt/.bash_aliases
